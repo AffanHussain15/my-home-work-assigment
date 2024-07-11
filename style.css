@@ -1,0 +1,163 @@
+*{
+    /* padding: 0px;/ */
+    /* margin: 0px; */
+    /* height: 0px; */
+    /* width: 0px; */
+}
+
+.all{
+    height: 600px;
+    width: 1600px;
+    background-color: bisque;
+    
+}
+
+.top{
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+    width: 1500px;
+    justify-content: space-between;
+    height: 50px;
+}
+
+.a{
+    font-weight: bold;    
+}
+.see{
+    border-radius: 10px;
+    padding: 20px;
+    padding-right: 50px;
+    padding-bottom: 30px;   
+}
+.top2{
+    
+}
+.des{
+    padding: 20px;
+    height: 5px;
+    margin-top: 150px;
+    width: 200px;
+}
+
+.art{
+    padding: 20px;
+    width: 250px;
+    font-style: oblique;
+    font-size: xx-large;
+    margin-bottom: 10px;
+}
+
+.mol{
+    width: 300px;
+    padding: 20px;
+    margin-top: 50px;
+}
+
+.buy{
+    width: 100px;
+    margin-top: 40px;
+    padding: 10px;
+    height: 20px;
+    background-color: black;
+    color: white;
+}
+
+.live{
+    width: 110px;
+    height: 30px;
+    border-radius: 10px;
+    color: black;
+    margin-left: 150px;
+    margin-top: -50px;
+}
+
+.img{
+    display: flex;
+    margin-left: 1100px;
+    margin-top: -300px;
+    height: 300px;
+    /* width: 50%; */
+}
+
+.all2{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    /* gap: 500px;     */
+}
+
+.half1{
+    /* display: flex; */
+    /* flex-direction: row; */
+    /* justify-content: ; */
+    
+}
+
+.works{
+    margin-bottom: 0px;
+    /* margin-top: -240px; */
+    margin-right: -40px;
+    width: 40px;
+
+}
+.our{
+    font-size: xx-large;
+    font-style: italic;
+    color: black;
+    font-weight: 100;
+    margin-top: 50px;
+    /* margin-right: -110px; */
+    width: 250px;
+}
+
+.first{
+    /* width: 1500px; */
+    /* height: auto; */
+    /* margin-bottom: -600px; */
+    
+
+}
+
+.ani{
+    display: flex;
+    flex-direction: row;
+    font-size: larger;
+    margin-top: 80px;
+}
+
+.sec{
+   /* margin: 100px 0px 0px 800px; */
+   display: flex;
+   flex-direction: row;
+   width: 00px;
+}
+
+.half2{
+    /* display: flex; */
+
+}
+
+.des1{
+    font-size: x-large;
+}
+
+.photo{
+    font-size: xx-large;
+}
+
+.third{
+
+}
+
+.des2{
+    font-size: x-large;
+}
+
+.amazing{
+    font-size: xx-large;
+}
+
+.fourth{
+
+}
